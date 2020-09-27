@@ -20,9 +20,9 @@ export default function Home() {
           Yet Another Coder
         </p>
         <div class={styles.socialIconList}>
-         <a href="https://www.facebook.com/BeastHaxor/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/facebook.png" class={styles.socialIcon}/></a>
-         <a href="https://www.youtube.com/channel/UCO9nfwZE7J7GkubwmUna9tA" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" class={styles.socialIcon}/></a>
-         <a href="https://www.instagram.com/saheenshoukath/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" class={styles.socialIcon}/></a>
+         <a href="https://www.facebook.com/BeastHaxor/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/facebook.png" className={styles.socialIcon}/></a>
+         <a href="https://www.youtube.com/channel/UCO9nfwZE7J7GkubwmUna9tA" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" className={styles.socialIcon}/></a>
+         <a href="https://www.instagram.com/saheenshoukath/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" className={styles.socialIcon}/></a>
         </div>
        
         </main>
